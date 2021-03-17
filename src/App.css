@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  align-items: center;
+  background: #D8AA96;
+  display: grid;
+  font-size: 14px;
+  font-weight: 400;
+  height: 100xp;
+  justify-items: center;
+}
+
+.par {
+color: fuchsia; 
+}
+.card {
+margin-bottom: 100px;
+}
+.formulaire {
+margin-top: 100px;
+ background-repeat: no-repeat;
+  width: 30%;
+  height: 50%;
+  padding: 0;
+  float: left;
+  margin: 30px 20px 30px 30% ;
+  
+}
+
+#pic {
+
+height: 700px;
+
+
+}
